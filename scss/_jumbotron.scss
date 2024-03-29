@@ -1,0 +1,42 @@
+/* Jumbotron */
+.jumbotron {
+    height: 450px;
+    background-image: url(../img/prin.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    text-align: center;
+}
+
+.jumbotron2 {
+    height: 450px;
+    background-image: url(../img/prin2.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    text-align: center;
+}
+
+.jumbotron3 {
+    height: 450px;
+    background-image: url(../img/equipo.jpg);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    text-align: center;
+}

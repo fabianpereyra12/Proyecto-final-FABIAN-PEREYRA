@@ -1,0 +1,24 @@
+/* Contenedores */
+
+.container-fluid {
+    animation: scale-up-vertical-center 0.9s;
+}
+
+.nleft {
+    background-image: url(../img/cont.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 350px;
+}
+
+.nright {
+    padding: 20px;
+}
+
+.equipo {
+    text-align: center;
+}
+
+.equipo ul li {
+    list-style: none;
+}

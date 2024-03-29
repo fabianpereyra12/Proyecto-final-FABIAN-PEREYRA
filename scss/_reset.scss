@@ -1,0 +1,24 @@
+/* Estilos generales */
+
+@import url('https://fonts.googleapis.com/css2?family=Madimi+One&display=swap');
+
+* {
+    font-family: "Madimi One", sans-serif;
+}
+
+h1,
+h2 {
+    text-align: center;
+}
+
+h3 {
+    color: $color-azul
+}
+
+h4 {
+    color: $color-rojo
+}
+
+h5 {
+    color: $color-negro;
+}
